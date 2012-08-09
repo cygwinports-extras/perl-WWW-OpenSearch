@@ -1,5 +1,0 @@
-category: Web Perl
-requires: perl perl-Data-Page perl-URI-Template perl-XML-Feed
-sdesc: "Perl OpenSearch search engine module"
-ldesc: "WWW::OpenSearch is a module to search A9's OpenSearch compatible 
-search engines. See http://opensearch.a9.com/ for details."
